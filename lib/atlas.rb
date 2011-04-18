@@ -1,0 +1,3 @@
+module Atlas
+  # Your code goes here...
+end
